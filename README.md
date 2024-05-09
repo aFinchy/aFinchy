@@ -10,9 +10,9 @@ Welcome to my GitHub profile! I'm Amy, a software developer with a knack for tur
 - 🛠️ All projects listed here are owned and developed by me.
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amy%20Finch-blue)](https://www.linkedin.com/in/amyfinch)
-[![Facebook](https://img.shields.io/badge/Facebook-Amy%20Finch-blue)](https://www.facebook.com/amyfinch)
-- Discord Username: AmyFinch#0001
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amy%20Finch-blue)](https://www.linkedin.com/in/afinchy)
+[![Facebook](https://img.shields.io/badge/Facebook-Amy%20Finch-blue)](https://www.facebook.com/afinchy)
+- Discord Username: afinchy
 
 ## 💼 I'm Open To
 - Freelance Projects
